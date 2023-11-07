@@ -24,9 +24,10 @@ card or a random stat increase.
 
 ## Prototype
 
-The map will be a hexagonal grid with a radius of 6. The player and 6
-enemies will be randomly placed in cells without overlap and start the
-first round. A new round will start until all enemies are defeated.
+The map will be a flat-top hexagonal grid with a radius of 6. The
+player and 6 enemies will be randomly placed in cells without overlap
+and start the first round. A new round will start until all enemies are
+defeated.
 
 
 ## Card Effects
